@@ -1,4 +1,4 @@
-### Hey, I'm Mackenzie
+### Intro
 
 Software engineer based in BC. Interested in systems programming, interpreters, game engines, and CLI tooling.
 
